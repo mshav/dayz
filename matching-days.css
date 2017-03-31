@@ -1,9 +1,19 @@
 h1 {
-color:pink;
-
+font-size: 45px;
+margin-left:440px;
+font-family:impact;
+border:solid #c7ccdd 12px;
+color:white;
+background-color:#c7ccdd;
+width:345px;
+border-radius:24px;
+text-align:center;
 }
-#month2{
-margin-left: 63px;
+
+.target{
+margin-left:290px;
+font-size:36px;
+
 
 
 }
@@ -20,4 +30,15 @@ background-color:red;
 .blue {
 background-color:blue;
 
+}
+body{
+background-image: url("https://thumbs.dreamstime.com/z/emotions-different-days-week-coneheads-depicting-white-background-39524470.jpg");
+
+}
+#input1{
+margin-left:267px;
+
+}
+#input2{
+  margin-left:170px;
 }
